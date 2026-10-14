@@ -1,16 +1,28 @@
-## Hi there 👋
+# SwastikNagpure / README.md
 
-<!--
-**SwastikNagpure/SwastikNagpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there 👋
 
-Here are some ideas to get you started:
+I’m Swastik Nagpure, a B.Tech Computer Science student who enjoys technology and creative work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m good at 3D modeling, visual effects (VFX), and graphic design (GFX).
+
+I also work with HTML and JavaScript to build for the web.
+
+---
+
+## Tools & Tech
+
+- HTML
+- JavaScript
+- 3D modeling
+- Visual effects (VFX)
+- Graphic design (GFX)
+
+---
+
+## A Bit About Me
+
+- 🎓 B.Tech Computer Science student
+- 🎨 I enjoy creating 3D models and visual effects
+- 💻 I like building things for the web
+- 👋 Find me on [GitHub](https://github.com/SwastikNagpure)
