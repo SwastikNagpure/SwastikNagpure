@@ -1,5 +1,3 @@
-# SwastikNagpure / README.md
-
 ## Hey there 👋
 
 I’m Swastik Nagpure, a B.Tech Computer Science student who enjoys technology and creative work.
